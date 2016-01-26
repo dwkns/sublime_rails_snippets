@@ -10,5 +10,5 @@ All the original rails snippets are in here. Just edit them as req.
 ## Installing
 To install use...
   
-    $ cd "~/Library/Application Support/Sublime Text 3/Packages/"
+    $ cd "$HOME/Library/Application Support/Sublime Text 3/Packages/"
     $ git clone https://github.com/dwkns/sublime_rails_snippets.git Rails
