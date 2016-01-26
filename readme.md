@@ -5,6 +5,8 @@ Why do this? Mainly to add my own shortcuts.
 
 So `%` for `<%  %>` or `=` for `<%=  %>`
 
+All the original rails snippets are in here. Just edit them as req.
+
 ## Installing
 To install use...
   
